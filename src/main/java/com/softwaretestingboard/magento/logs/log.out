@@ -1,0 +1,40 @@
+2023-05-15 16:05:27 INFO  WomensPage :45 - mouseHoverOnWomenMenu
+2023-05-15 16:05:359 INFO  WomensPage :50 - mouseHoverOnTops
+2023-05-15 16:05:530 INFO  WomensPage :55 - clickOnJackets
+2023-05-15 16:05:259 INFO  WomensPage :60 - Get selection by sorting filter
+2023-05-15 16:05:416 INFO  WomensPage :70 - Get the product name verification
+2023-05-15 16:05:561 INFO  WomensPage :70 - Get the product name verification
+2023-05-15 16:05:362 INFO  WomensPage :45 - mouseHoverOnWomenMenu
+2023-05-15 16:05:904 INFO  WomensPage :50 - mouseHoverOnTops
+2023-05-15 16:05:236 INFO  WomensPage :55 - clickOnJackets
+2023-05-15 16:05:919 INFO  WomensPage :60 - Get selection by sorting filter
+2023-05-15 16:05:466 INFO  WomensPage :82 - Get the product price verification
+2023-05-15 16:05:644 INFO  WomensPage :82 - Get the product price verification
+2023-05-15 16:05:742 INFO  MensPage :71 - MouseHover on menMenu 
+2023-05-15 16:05:947 INFO  MensPage :76 - MouseHover on bottomMenu 
+2023-05-15 16:05:110 INFO  MensPage :81 - Clicking on Pants
+2023-05-15 16:05:804 INFO  MensPage :87 - MouseHover and click on cronusYogaPant 
+2023-05-15 16:05:57 INFO  MensPage :92 - MouseHover and click on colourBlack 
+2023-05-15 16:05:283 INFO  MensPage :97 - Clicking on addToCart
+2023-05-15 16:05:406 INFO  MensPage :106 - Get text from the ‘You added Cronus Yoga Pant to your shopping cart.’ 
+2023-05-15 16:05:387 INFO  MensPage :102 - Clicking on shoppingCartLink
+2023-05-15 16:05:652 INFO  MensPage :111 - Get text from shoppingCart ‘Shopping Cart.’
+2023-05-15 16:05:710 INFO  MensPage :116 - Get text from productName ‘Cronus Yoga Pant’
+2023-05-15 16:05:742 INFO  MensPage :122 - Get text from productSize ‘32’
+2023-05-15 16:05:773 INFO  MensPage :127 - Get text from productColour ‘Black’ 
+2023-05-15 17:05:911 INFO  GearPage :75 - MouseHover on gearMenu 
+2023-05-15 17:05:772 INFO  GearPage :80 - Click on Bags 
+2023-05-15 17:05:298 INFO  GearPage :85 - Click on Product Name ‘Overnight Duffle’ 
+2023-05-15 17:05:691 INFO  GearPage :90 - Get text from the Product Name ‘Overnight Duffle’ 
+2023-05-15 17:05:935 INFO  GearPage :100 - Clear an element 
+2023-05-15 17:05:254 INFO  GearPage :95 - Change Qty 3 
+2023-05-15 17:05:353 INFO  GearPage :105 - Click on ‘Add to Cart’ Button. 
+2023-05-15 17:05:586 INFO  GearPage :111 - Get text from the ‘You added Overnight Duffle to your shopping cart.’ 
+2023-05-15 17:05:264 INFO  MensPage :102 - Clicking on shoppingCartLink
+2023-05-15 17:05:979 INFO  GearPage :121 - Get text from the product name ‘Overnight Duffle’ 
+2023-05-15 17:05:284 INFO  GearPage :126 - Get text from the Qty '3' 
+2023-05-15 17:05:527 INFO  GearPage :131 - Get text from the product price ‘$135.00’ 
+2023-05-15 17:05:601 INFO  GearPage :146 - clearAnElementFromUpdatedShoppingCart
+2023-05-15 17:05:683 INFO  GearPage :141 - update the Quantity to '5' 
+2023-05-15 17:05:769 INFO  GearPage :136 - update the ShoppingCart 
+2023-05-15 17:05:883 INFO  GearPage :151 - Get text from the product price '$225.00’  
